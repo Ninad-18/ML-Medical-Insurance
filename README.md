@@ -20,8 +20,8 @@ smoker
 region
 
 Target:
-
 charges — medical insurance cost
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -32,6 +32,7 @@ Scikit-learn
 Jupyter Notebook
 Joblib
 Streamlit (for deployment)
+
 🔍 Project Workflow
 Dataset
    ↓
@@ -56,17 +57,9 @@ Streamlit UI
 
 The project will compare regression algorithms such as:
 
-Linear Regression
-Lasso Regression
-Ridge Regression
-ElasticNet
-Random Forest Regressor
-Extra Trees Regressor
-AdaBoost Regressor
-Gradient Boosting Regressor
-XGBoost Regressor
-CatBoost Regressor
-SGD Regressor
+
+
+
 📈 Evaluation Metrics
 
 Models will be evaluated using:
